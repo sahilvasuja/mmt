@@ -1,12 +1,13 @@
 import Header from "../components/Header";
+import Nav from "../components/Nav";
 
 const index = () => {
   return (
     <>
    <Header />
-    <div className='text-red-600 uppercase'>index
+   <Nav />
     
-    </div>
+   
     </>
     
   )
